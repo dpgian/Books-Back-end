@@ -1,0 +1,4 @@
+{
+    "mongoURI" :
+    "mongodb+srv://dpgian:dppassword@mern-practice-wlokt.mongodb.net/test?retryWrites=true&w=majority"
+}
